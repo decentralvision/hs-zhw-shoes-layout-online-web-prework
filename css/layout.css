@@ -35,15 +35,19 @@
 }
 
 .two-thirds {
-  flex: 64%;
-  margin-right: 1%;
+  flex: 66.17%;
 }
 
 .one-third {
-  flex: 33%;
-  margin-left: 1%;
+  flex: 32.33%;
+  margin-left: 1.5%;
 }
 
-.third-left {
-  flex: 32%;
+.thirds {
+  flex: 32.33%;
+  margin-left: 1.5%;
+}
+
+.thirds-left {
+  flex: 32.33%;
 }
